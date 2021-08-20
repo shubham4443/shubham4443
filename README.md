@@ -5,9 +5,10 @@
 
 - 🔭 I’m currently working on my side project [JabMe](https://github.com/shubham4443/JabMe).
 - 🎓 I'm currently pursuing my under-graduate from Veermata Jijabai Technological Institute (VJTI).
-- 🌱 I’m currently learning ML and DSA.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on full stack web apps!
-- 💬 Ask me about React, Node.
+- 💬 Ask me about React, Node, Docker, Kubernetes.
+- ✍ I write articles on things I'm learning and interested about!. Visit my [Blog](https://shubham4443.hashnode.dev/).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-nazare-a23535190/).
 
 ## Skills
