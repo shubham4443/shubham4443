@@ -39,5 +39,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Kubernetes?](https://shubham4443.hashnode.dev/what-is-kubernetes)
+- [Dockerizing NodeJS App: Simpler Steps](https://shubham4443.hashnode.dev/dockerizing-nodejs)
+- [Deploy React Apps to Firebase](https://shubham4443.hashnode.dev/deploy-react-apps-to-firebase)
+- [How to start a MongoDB container along with a web-based admin interface using Docker Compose](https://shubham4443.hashnode.dev/how-to-start-a-mongodb-container-along-with-a-web-based-admin-interface-using-docker-compose)
+- [How to send emails in NodeJS using SendGrid](https://shubham4443.hashnode.dev/how-to-send-emails-in-nodejs-using-sendgrid)
 <!-- BLOG-POST-LIST:END -->
 
