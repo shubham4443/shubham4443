@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on my side project [JabMe](https://github.com/shubham4443/JabMe).
+[//]: # - 🔭 I’m currently working on my side project [JabMe](https://github.com/shubham4443/JabMe).
 - 🎓 I'm currently pursuing my under-graduate from Veermata Jijabai Technological Institute (VJTI).
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on full stack web apps!
