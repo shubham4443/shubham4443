@@ -41,10 +41,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logistic Regression](https://shubham4443.hashnode.dev/logistic-regression)
 - [Linear Regression](https://shubham4443.hashnode.dev/linear-regression)
 - [Graph Theory: Kruskal's Minimum Spanning Tree Algorithm](https://shubham4443.hashnode.dev/graph-theory-kruskals-minimum-spanning-tree-algorithm)
 - [Kubernetes Architecture: Explained](https://shubham4443.hashnode.dev/kubernetes-architecture-explained)
 - [What is Kubernetes?](https://shubham4443.hashnode.dev/what-is-kubernetes)
-- [Dockerizing NodeJS App: Simpler Steps](https://shubham4443.hashnode.dev/dockerizing-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
