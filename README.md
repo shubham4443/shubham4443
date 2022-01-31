@@ -4,7 +4,7 @@
 ## About Me
 
 - 🎓 I'm currently pursuing my under-graduate from Veermata Jijabai Technological Institute (VJTI).
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning and DevOps.
 - 👯 I’m looking to collaborate on full stack web apps!
 - 💬 Ask me about React, Node, Docker, Kubernetes.
 - ✍ I write articles on things I'm learning and interested about!. Visit my [Blog](https://shubham4443.hashnode.dev/).
