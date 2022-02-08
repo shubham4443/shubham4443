@@ -41,10 +41,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Services in Kubernetes](https://shubham4443.hashnode.dev/services-in-kubernetes)
 - [Support Vector Machine](https://shubham4443.hashnode.dev/support-vector-machine)
 - [Random Forest](https://shubham4443.hashnode.dev/random-forest)
 - [Decision Tree](https://shubham4443.hashnode.dev/decision-tree)
 - [Logistic Regression](https://shubham4443.hashnode.dev/logistic-regression)
-- [Linear Regression](https://shubham4443.hashnode.dev/linear-regression)
 <!-- BLOG-POST-LIST:END -->
 
