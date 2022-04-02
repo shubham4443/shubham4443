@@ -3,10 +3,10 @@
 
 ## About Me
 
-- 🎓 I'm currently pursuing my under-graduate from Veermata Jijabai Technological Institute (VJTI).
+- 🎓 I'm currently pursuing my under-graduate in Electronics Engineering from Veermata Jijabai Technological Institute (VJTI).
 - 🌱 I’m currently learning Machine Learning and DevOps.
-- 👯 I’m looking to collaborate on open-source projects!
-- 💬 Ask me about React, Node, Docker, Kubernetes.
+- 👯 I’m looking to collaborate on open-source projects, specifically cloud-native!
+- 💬 Ask me about ReactJS, Node.js, Docker, Kubernetes.
 - ✍ I write articles on React, DevOps and ML. Visit my [Blog](https://shubham4443.hashnode.dev/).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-nazare-a23535190/).
 
@@ -17,12 +17,13 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 - ### 🛢 DBMS
   ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- ### ☁ Cloud
+- ### ☁ Cloud/DevOps
   ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,9 +36,6 @@
 - ### ⚙️ Version Control
   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  
-## Stats
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham4443&count_private=true&show_icons=true)](https://github.com/shubham4443)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
