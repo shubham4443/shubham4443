@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🎓 I'm currently pursuing my under-graduate in Electronics Engineering from Veermata Jijabai Technological Institute (VJTI), Mumbai - India.
+- 🎓 I'm currently pursuing my under-graduate in Electronics Engineering from Veermata Jijabai Technological Institute (VJTI).
 - 🌱 I’m currently learning Machine Learning and DevOps.
 - 👯 I’m looking to collaborate on open-source projects, specifically cloud-native!
 - 💬 Ask me about ReactJS, Node.js, Docker, Kubernetes.
